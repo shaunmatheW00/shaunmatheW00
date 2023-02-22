@@ -27,10 +27,6 @@
 </br>
 
 <p align="center">
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
 
 
 <img src="https://raw.githubusercontent.com/shaunmatheW00/shaunmatheW00/main/assets/icons/python.png" alt="python" width="120" hight="50">
@@ -51,12 +47,6 @@
 </br>
 
 # Contact Me :
-
-<p>
- </br>
-
-
-
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
