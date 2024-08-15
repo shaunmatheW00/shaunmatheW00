@@ -32,7 +32,6 @@
 <img src="https://raw.githubusercontent.com/shaunmatheW00/shaunmatheW00/main/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://raw.githubusercontent.com/shaunmatheW00/shaunmatheW00/main/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://raw.githubusercontent.com/shaunmatheW00/shaunmatheW00/main/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://raw.githubusercontent.com/shaunmatheW00/shaunmatheW00/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
 <img src="https://raw.githubusercontent.com/shaunmatheW00/shaunmatheW00/main/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 </br>
 <img src="https://raw.githubusercontent.com/shaunmatheW00/shaunmatheW00/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
